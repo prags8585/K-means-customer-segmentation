@@ -1,6 +1,6 @@
 # Customer Segmentation with RFM + K-Means
 
-An end-to-end, GitHub-ready project that performs customer segmentation using **RFM (Recency, Frequency, Monetary)** features and **K-Means** clustering.
+customer segmentation using **RFM (Recency, Frequency, Monetary)** features and **K-Means** clustering.
 
 ## What this repo contains
 - `src/data_prep.py` — Cleans transactions and computes RFM features.
